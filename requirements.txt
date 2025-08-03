@@ -1,0 +1,5 @@
+numpy
+pandas         # if your model was trained using pandas
+scikit-learn   # needed for model loading and prediction
+streamlit
+pickle5        # sometimes needed to load old pickle files in certain environments
